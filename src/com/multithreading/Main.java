@@ -25,6 +25,7 @@ public class Main {
 	  for(int i=0;i<50;i++) {
 	  ThreadCounterSolutionUsingSynchronizedLock threadCounterSolutionObj = new ThreadCounterSolutionUsingSynchronizedLock();
 	 // threadCounterSolutionObj.testThreadCounterProblem();
+	  
 	  }
 	  
 	  // counter solution with multiple thread without using syncronized keyword
